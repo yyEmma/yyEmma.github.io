@@ -5,10 +5,10 @@
     
     <entry>
       <title>10.22</title>
-      <link href="/yyEmma/yyEmma.github.io.git/2024/10/22/10-22/"/>
-      <url>/yyEmma/yyEmma.github.io.git/2024/10/22/10-22/</url>
+      <link href="/yyEmma/yyEmma.github.io.git/post/bd3cf091.html"/>
+      <url>/yyEmma/yyEmma.github.io.git/post/bd3cf091.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/yyEmma/yyEmma.github.io.git/assets/css/APlayer.min.css"><script src="/yyEmma/yyEmma.github.io.git/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
       
@@ -18,10 +18,10 @@
     
     <entry>
       <title>10.21我的第一篇博文</title>
-      <link href="/yyEmma/yyEmma.github.io.git/2024/10/21/10-21%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/"/>
-      <url>/yyEmma/yyEmma.github.io.git/2024/10/21/10-21%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</url>
+      <link href="/yyEmma/yyEmma.github.io.git/post/76c8252.html"/>
+      <url>/yyEmma/yyEmma.github.io.git/post/76c8252.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/yyEmma/yyEmma.github.io.git/assets/css/APlayer.min.css"><script src="/yyEmma/yyEmma.github.io.git/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
       
@@ -31,10 +31,10 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/yyEmma/yyEmma.github.io.git/2024/10/21/hello-world/"/>
-      <url>/yyEmma/yyEmma.github.io.git/2024/10/21/hello-world/</url>
+      <link href="/yyEmma/yyEmma.github.io.git/post/4a17b156.html"/>
+      <url>/yyEmma/yyEmma.github.io.git/post/4a17b156.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/yyEmma/yyEmma.github.io.git/assets/css/APlayer.min.css"><script src="/yyEmma/yyEmma.github.io.git/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       
@@ -51,6 +51,105 @@
       <url>/yyEmma/yyEmma.github.io.git/main.css</url>
       
         <content type="html"><![CDATA[/* 鱼塘固定宽度 */canvas:not(#ribbon-canvas), #web_bg {  margin-bottom: -0.5rem;  display: block;  width: 100%;  height: 160px}/* 鱼塘渐变色 */body{overflow-x: hidden;}#footer {height:160px;background: linear-gradient(135deg,rgba(23, 23, 116, 0.2),rgba(28, 181, 224, 0.2));}#footer #footer-wrap,#footer-wrap a {color: #000;}#footer #footer-wrap {z-index: 1;}#footer .container {line-height: 0;position: relative;height: 100%;width: 100vw;}/* 侧边栏个人信息卡片动态渐变色 */#aside-content>.card-widget.card-info{  background: linear-gradient(-45deg, rgba(255, 225, 245, 0.6), rgba(255, 225, 225, 0.9), rgba(225, 255, 251, 0.9), rgba(255, 225, 255, 0.6));}[data-theme=dark] #aside-content>.card-widget.card-info {  background: linear-gradient(-45deg, rgb(225, 238, 255),   rgba(225, 255, 253, 0.9),   rgba(225, 243, 255, 0.9),   rgba(255, 225, 253, 0.6));}/* 侧边栏公告栏卡片渐变色 */#aside-content>.card-widget.card-announcement{  background: linear-gradient(-45deg, rgba(255, 225, 245, 0.6),   rgba(255, 225, 225, 0.9),   rgba(225, 255, 251, 0.9),   rgba(255, 225, 255, 0.6));}[data-theme=dark] #aside-content>.card-widget.card-announcement{  background: linear-gradient(-45deg, rgba(255, 225, 245, 0.6),   rgba(255, 225, 225, 0.9),   rgba(225, 255, 251, 0.9),   rgba(255, 225, 255, 0.6));}/* 侧边栏目录最新文章卡片渐变色 */#aside-content>.sticky_layout>.card-widget{  background: linear-gradient(-45deg, rgba(255, 225, 245, 0.6),   rgba(255, 225, 225, 0.9),   rgba(225, 255, 251, 0.9),   rgba(255, 225, 255, 0.6));}[data-theme=dark] #aside-content>.sticky_layout>.card-widget{  background: linear-gradient(-45deg, rgba(255, 225, 245, 0.6),   rgba(255, 225, 225, 0.9),   rgba(225, 255, 251, 0.9),   rgba(255, 225, 255, 0.6));}/* 个人信息Follow me按钮 */#aside-content>.card-widget.card-info>#card-info-btn {  background-color: #3eb8be;  border-radius: 8px;}/*文章页面*//* .layout>#post {  background: linear-gradient(-45deg, rgba(225, 255, 252, 0.8), rgba(255, 225, 229, 0.9), rgba(225, 255, 225, 0.9), rgba(253, 255, 225, 0.8));}[data-theme=dark] .layout>#post {  background: linear-gradient(-45deg, rgba(24,40,72,.2), rgba(35,37,58,.9), rgba(35,37,58,.9), rgba(24,40,72,.2));} *//*主页文章预览页面*/#recent-posts>.recent-post-item{  background: linear-gradient(-45deg, rgba(225, 255, 252, 0.8),   rgba(255, 225, 229, 0.9),   rgba(225, 255, 225, 0.9),   rgba(253, 255, 225, 0.8));}[data-theme=dark] #recent-posts>.recent-post-item{  background: linear-gradient(-45deg, rgba(24,40,72,.2), rgba(35,37,58,.9), rgba(35,37,58,.9), rgba(24,40,72,.2));}/*分类页面*/.layout>#page {  background: linear-gradient(-45deg, rgba(225,235,255,.8), rgba(225,235,255,.9), rgba(225,235,255,.9), rgba(225,235,255,.8));}[data-theme=dark] .layout>#page {  background: linear-gradient(-45deg, rgba(24,40,72,.2), rgba(35,37,58,.9), rgba(35,37,58,.9), rgba(24,40,72,.2));}/*时间轴页面*/.layout>#archive {  background: linear-gradient(-45deg, rgba(225,235,255,.8), rgba(225,235,255,.9), rgba(225,235,255,.9), rgba(225,235,255,.8));}[data-theme=dark] .layout>#archive {  background: linear-gradient(-45deg, rgba(24,40,72,.2), rgba(35,37,58,.9), rgba(35,37,58,.9), rgba(24,40,72,.2));}/* 文章页H1-H6图标样式效果 */h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {  -webkit-animation: ccc 1.6s linear infinite ;  animation: ccc 1.6s linear infinite ;}@-webkit-keyframes ccc {  0% {      -webkit-transform: rotate(0deg);      transform: rotate(0deg)  }  to {      -webkit-transform: rotate(-1turn);      transform: rotate(-1turn)  }}@keyframes ccc {  0% {      -webkit-transform: rotate(0deg);      transform: rotate(0deg)  }  to {      -webkit-transform: rotate(-1turn);      transform: rotate(-1turn)  }}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>about</title>
+      <link href="/yyEmma/yyEmma.github.io.git/about/index.html"/>
+      <url>/yyEmma/yyEmma.github.io.git/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>links</title>
+      <link href="/yyEmma/yyEmma.github.io.git/links/index.html"/>
+      <url>/yyEmma/yyEmma.github.io.git/links/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>archives</title>
+      <link href="/yyEmma/yyEmma.github.io.git/archives/index.html"/>
+      <url>/yyEmma/yyEmma.github.io.git/archives/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>movies</title>
+      <link href="/yyEmma/yyEmma.github.io.git/movies/index.html"/>
+      <url>/yyEmma/yyEmma.github.io.git/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>music</title>
+      <link href="/yyEmma/yyEmma.github.io.git/music/index.html"/>
+      <url>/yyEmma/yyEmma.github.io.git/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>photos</title>
+      <link href="/yyEmma/yyEmma.github.io.git/photos/index.html"/>
+      <url>/yyEmma/yyEmma.github.io.git/photos/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/yyEmma/yyEmma.github.io.git/tags/index.html"/>
+      <url>/yyEmma/yyEmma.github.io.git/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>shuoshuo</title>
+      <link href="/yyEmma/yyEmma.github.io.git/shuoshuo/index.html"/>
+      <url>/yyEmma/yyEmma.github.io.git/shuoshuo/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/yyEmma/yyEmma.github.io.git/categories/index.html"/>
+      <url>/yyEmma/yyEmma.github.io.git/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
